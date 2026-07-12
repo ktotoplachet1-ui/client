@@ -1,1 +1,14 @@
-
+{
+  "version": "1.1.0",
+  "files_to_delete": [
+    "game/mods/SuperiorityVisual-1.0.0.jar",
+    "game/mods/SuperiorityVisual-1.0.5.jar"
+  ],
+  "files_to_download": [
+    {
+      "path": "game/mods/SuperiorityVisual-1.1.0.jar",
+      "url": "https://github.com/ТВОЙ_ГИТХАБ/.../SuperiorityVisual-1.1.0.jar",
+      "hash": "ЗДЕСЬ_SHA256_ХЭШ_ФАЙЛА"
+    }
+  ]
+}
